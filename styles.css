@@ -15,14 +15,14 @@
             background: linear-gradient(to bottom, #0078ff, #00ff7e);
             color: #fff;
             text-align: center;
-	    line-height: 128px;
-            height: 128px;
+	    line-height: 256px;
+            height: 256px;
 	    border-bottom: 4px solid #0078ff;
 	    border-radius: 0px 0px 32px 32px;
         }
 
         header h1 {
-            font-size: 2em;
+            font-size: 2.5em;
         }
 
         nav {
