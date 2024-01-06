@@ -15,7 +15,7 @@
             background: linear-gradient(to bottom, #0078ff, #00ff7e);
             color: #fff;
             text-align: center;
-            padding: 64px;
+	    line-height: 128px;
             height: 128px;
 	    border-bottom: 4px solid #0078ff;
 	    border-radius: 0px 0px 32px 32px;
