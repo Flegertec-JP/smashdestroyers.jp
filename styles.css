@@ -19,6 +19,7 @@
             text-align: center;
             padding: 64px;
             height: 128px;
+	    border-bottom: 4px solid #00b5f0;
 	    border-radius: 0px 0px 32px 32px;
         }
 
