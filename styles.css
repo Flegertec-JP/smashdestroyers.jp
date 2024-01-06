@@ -66,6 +66,7 @@
 
         body h2 {
              border-bottom: 4px solid #008df5;
+	     margin-bottom: 4px;
         }
 
         .content-box {
