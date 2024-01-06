@@ -3,6 +3,7 @@
             background-color: #fff;
             color: #000;
 	    box-sizing: border-box;
+	    margin: 0px;
         }
 
         header {
@@ -11,7 +12,7 @@
             background: linear-gradient(to bottom, #0078ff, #00ff7e);
             color: #fff;
             text-align: center;
-	    line-height: 250px;
+	    line-height: 256px;
             height: 256px;
 	    border-bottom: 4px solid #0078ff;
 	    border-radius: 0px 0px 32px 32px;
