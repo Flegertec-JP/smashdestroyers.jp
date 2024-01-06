@@ -19,8 +19,8 @@
             text-align: center;
             padding: 64px;
             height: 256px; /* ヘッダーの高さ */
-	     border-bottom: 4px solid #00b5f0; /* ヘッダー下部の飾り線 */
-	     border-radius: 0px 0px 32px 32px;
+	    border-bottom: 4px solid #00b5f0; /* ヘッダー下部の飾り線 */
+	    border-radius: 0px 0px 32px 32px;
         }
 
         header h1 {
